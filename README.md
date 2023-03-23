@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning about SQL and Python for Data analysis
-- 🔭 I’m currently working on personal projects I will add as repos here!
+- 🔭 I’m currently working on personal projects that I will add as repos here!
 
 Thanks for visiting!
 
