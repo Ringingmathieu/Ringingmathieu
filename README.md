@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about SQL and Python for Data analysis
+- 🔭 I’m currently working on personal projects I will add as repos here!
+
+Thanks for visiting!
+
+
 <!--
 **Ringingmathieu/Ringingmathieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
