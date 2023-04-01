@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about SQL and Python for Data analysis
+- 🌱 I’m currently learning SQL and Python in order to become a Data Analyst
 - 🔭 I’m currently working on personal projects that I will add as repos here!
 
 Thanks for visiting!
